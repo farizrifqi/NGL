@@ -1,0 +1,23 @@
+{
+  "name": "ngl",
+  "version": "1.0.0",
+  "description": "Send question to [ngl.link](https://ngl.link/) user using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farizrifqi/NGL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farizrifqi/NGL/issues"
+  },
+  "homepage": "https://github.com/farizrifqi/NGL#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "prompts": "^2.4.2"
+  }
+}
